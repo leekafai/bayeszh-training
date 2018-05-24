@@ -1,0 +1,22 @@
+{
+  "name": "bayeszh-training",
+  "version": "1.0.0",
+  "description": "bayeszh training cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekafai/bayeszhtraining.git"
+  },
+  "author": "leekafai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leekafai/bayeszhtraining/issues"
+  },
+  "homepage": "https://github.com/leekafai/bayeszhtraining#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
