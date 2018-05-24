@@ -1,0 +1,2 @@
+# bayeszhtraining
+bayeszh training cli
